@@ -1,4 +1,236 @@
 {
-  "updated": "",
-  "latest": []
+  "updated": "2026-11-02T20:16:37.627Z",
+  "latest": [
+    {
+      "title": "Is MTN Nigeria’s ₦95.5bn fintech sale really a win?",
+      "url": "https://thecondia.com/mtn-nigeria-momo-fintech-valuation-explained/",
+      "source": "Condia",
+      "date": "1 Nov 2026",
+      "description": "MTN Nigeria’s headline 2.1x MoMo sale premium relies on a heavily written-down paper value. Against the actual ₦137.95bn invested, the ₦95.5bn valuation is a 31% loss."
+    },
+    {
+      "title": "OPay withdraws planned $304M US IPO after foreign inquiry",
+      "url": "https://thecondia.com/opay-withdraws-304m-us-ipo-unnamed-foreign-inquiry/",
+      "source": "Condia",
+      "date": "31 Oct 2026",
+      "description": "OPay Limited has withdrawn its planned New York Stock Exchange listing, citing an inquiry in a foreign jurisdiction it has not named. Reuters reported that the company had priced 16 million shares at $19 each, valuing it at about $4 billion"
+    },
+    {
+      "title": "Iyin Aboyeji helped build 2 unicorns, now he wants to tackle Africa’s jobs crisis",
+      "url": "https://thecondia.com/iyin-aboyeji-takes-on-african-youth-unemployment/",
+      "source": "Condia",
+      "date": "29 Oct 2026",
+      "description": "After helping build African unicorns, Iyin Aboyeji is shifting from funding startups to building businesses he hopes can tackle the continent’s jobs crisis."
+    },
+    {
+      "title": "Is Google Wallet and Pay launch in Nigeria a game changer?",
+      "url": "https://thecondia.com/google-wallet-pay-nigeria-contactless-launch/",
+      "source": "Condia",
+      "date": "28 Oct 2026",
+      "description": "Google Wallet and Pay have launched in Nigeria. Here is how smartphone biometrics and tokenisation could solve Nigeria’s 10-year contactless payment problem and shift users away from bank transfers."
+    },
+    {
+      "title": "BREAKING: Moniepoint to cut engineering, product roles in major restructuring",
+      "url": "https://thecondia.com/moniepoint-to-cut-engineering-product-roles-in-major-restructuring/",
+      "source": "Condia",
+      "date": "26 Oct 2026",
+      "description": "The changes come as the fintech expands beyond its established Nigerian operations and grows its presence in Kenya."
+    },
+    {
+      "title": "Why B2C2 hired AZA Finance founder Elizabeth Rossiello as it expands into stablecoin liquidity",
+      "url": "https://thecondia.com/elizabeth-rossiello-joins-b2c2-coo-stablecoins/",
+      "source": "Condia",
+      "date": "23 Oct 2026",
+      "description": "As B2C2 accelerates its expansion into stablecoin liquidity and cross-border payments, the appointment of former AZA Finance CEO Elizabeth Rossiello highlights the growing demand for hard-to-build local currency payout routes."
+    },
+    {
+      "title": "Audit reveals 6 out of 8 top Nigerian government sites fail IPv6 readiness test",
+      "url": "https://thecondia.com/nigerian-government-websites-fail-ipv6-standards/",
+      "source": "Condia",
+      "date": "21 Oct 2026",
+      "description": "As millions of citizens rely on digital portals for taxes, identity cards, and business registration, independent testing reveals that key public infrastructure is lagging behind the internet’s global upgrade."
+    },
+    {
+      "title": "MNT-Halan shares jump 18% on Egyptian stock market debut after $150m IPO",
+      "url": "https://thecondia.com/mnt-halan-shares-jump-egypt-ipo/",
+      "source": "Condia",
+      "date": "20 Oct 2026",
+      "description": "MNT-Halan shares rose 18% on their Egyptian Exchange debut after a $150 million IPO drew heavy demand, valuing its listed Egyptian business at about $745 million."
+    },
+    {
+      "title": "PalmPay UK posts £21.3m loss after writing off £3.65m loan",
+      "url": "https://thecondia.com/palmpay-uk-posts-21-3m-loss-3-65m-loan/",
+      "source": "Condia",
+      "date": "16 Oct 2026",
+      "description": "PalmPay (UK) Limited recorded a £21.34m loss before tax in 2025, as investment impairments alongside a £3.65 million loan write-off weighed on its financial results."
+    },
+    {
+      "title": "Onafriq shuts down Baxi agent banking in Nigeria",
+      "url": "https://thecondia.com/onafriq-shuts-down-baxi-agent-banking-in-nigeria/",
+      "source": "Condia",
+      "date": "16 Oct 2026",
+      "description": "Onafriq is shutting down its Nigerian agent banking division, Baxi, following severe macroeconomic headwinds, naira devaluation, and rising competition in offline agency banking."
+    },
+    {
+      "title": "Moniepoint’s UK accounts reveal a profitable tech business and a loss-making payments operation",
+      "url": "https://thecondia.com/moniepoint-uk-accounts-tech-payments/",
+      "source": "Condia",
+      "date": "16 Oct 2026",
+      "description": "Moniepoint Technologies UK Ltd earned £2.06 million in 2025 after a substantial loss the previous year. A separate UK entity reported a loss and received further capital support, offering a glimpse into the different businesses behind the f"
+    },
+    {
+      "title": "Who is Trademarks Global Concepts, the new majority owner of eTranzact?",
+      "url": "https://thecondia.com/trademarks-global-concepts-etranzact/",
+      "source": "Condia",
+      "date": "14 Oct 2026",
+      "description": "Trademarks Global Concepts has taken control of eTranzact after acquiring a 56.18% stake from Access Bank and other shareholders."
+    },
+    {
+      "title": "Microsoft’s Nairobi shake up puts Silicon Savannah’s ambitions to the test",
+      "url": "https://thecondia.com/microsoft-nairobi-adc-silicon-savannah/",
+      "source": "Condia",
+      "date": "13 Oct 2026",
+      "description": "Microsoft’s reported plans to close its Nairobi engineering operations have raised fresh questions about Kenya’s Silicon Savannah ambitions. As engineers face uncertainty and AI reshapes software development, local technology leaders argue "
+    },
+    {
+      "title": "Wise secures remittance licence in South Africa, continuing African expansion",
+      "url": "https://thecondia.com/wise-gets-fx-regulatory-approval/",
+      "source": "Condia",
+      "date": "13 Oct 2026",
+      "description": "SARB has formally appointed Wise as a Category Two Authorised Dealer in foreign exchange with limited authority."
+    },
+    {
+      "title": "OPay targets $500M US IPO as H1 profit jumps 319%",
+      "url": "https://thecondia.com/opay-targets-500m-us-ipo/",
+      "source": "Condia",
+      "date": "12 Oct 2026",
+      "description": "OPay targets $500 million through a proposed New York IPO as revenue rises 136.5% and first half 2026 net profit jumps to $90.9 million."
+    },
+    {
+      "title": "TikTok users in northern Nigeria turn to VPNs as access disruption sparks legal challenge",
+      "url": "https://thecondia.com/tiktok-disruption-northern-nigeria/",
+      "source": "Condia",
+      "date": "12 Oct 2026",
+      "description": "TikTok users in northern Nigeria are turning to VPNs amid unexplained access disruptions, as a court case challenges the restrictions affecting four states."
+    },
+    {
+      "title": "Inside Flutterwave CEO Olugbenga Agboola’s startup portfolio",
+      "url": "https://thecondia.com/olugbenga-agboola-startup-investments-resilience17/",
+      "source": "Condia",
+      "date": "9 Oct 2026",
+      "description": "Olugbenga Agboola’s Resilience17 portfolio spans fintech and startups in healthcare, defence, aviation, media and more across Africa."
+    },
+    {
+      "title": "Moove reportedly exits Nigeria after 6 years, offers ₦35B to customers",
+      "url": "https://thecondia.com/moove-reportedly-exits-nigeria-after-6-years/",
+      "source": "Condia",
+      "date": "8 Oct 2026",
+      "description": "The move comes weeks after Uber ended its operations in Nigeria on September 2 after 12 years, a development that put Moove's original model under pressure."
+    },
+    {
+      "title": "The CBN announced a fintech licence shake-up in 2026, the process began a year earlier",
+      "url": "https://thecondia.com/cbn-national-licence-announcement-delayed-reclassification/",
+      "source": "Condia",
+      "date": "7 Oct 2026",
+      "description": "In January 2026, a CBN director, Yemi Solaja told the Committee of Heads of Banks' Operations conference in Lagos that institutions including Moniepoint MFB, OPay, and Kuda Bank had already been upgraded."
+    },
+    {
+      "title": "How AI & global chip shortages are driving up smartphone prices in Nigeria",
+      "url": "https://thecondia.com/nigeria-smartphone-prices-rise-h1-2026/",
+      "source": "Condia",
+      "date": "6 Oct 2026",
+      "description": "Nigeria was selected by the GSMA and its Handset Affordability Coalition for pilots aimed at expanding access to affordable 4G smartphones."
+    },
+    {
+      "title": "66 companies that have built digital Nigeria",
+      "url": "https://thecondia.com/66-companies-that-built-digital-nigeria/",
+      "source": "Condia",
+      "date": "1 Oct 2026",
+      "description": "From early mainframes, typewriters, and telephone exchanges to modern fintechs, cloud infrastructure, and diaspora platforms, explore the 66-year chronological relay race of the companies and institutions that built Nigeria’s digital econom"
+    },
+    {
+      "title": "Nigeria rolls out digital postcodes for every building",
+      "url": "https://thecondia.com/nigeria-rolls-out-digital-postcodes-for-every-building/",
+      "source": "Condia",
+      "date": "1 Oct 2026",
+      "description": "The system uses geographic information technology to pinpoint locations with far greater accuracy than the old six-digit numeric codes."
+    },
+    {
+      "title": "GTCO’s fintech is moving deeper into Nigeria’s payment infrastructure",
+      "url": "https://thecondia.com/gtco-habaripay-nigeria-payment-infrastructure/",
+      "source": "Condia",
+      "date": "29 Sept 2026",
+      "description": "GTCO’s HabariPay made ₦7.8bn in profit in H1 2026 as the fintech subsidiary expands its payment gateway, switching and infrastructure business."
+    },
+    {
+      "title": "How OnePurze’s 20-country launch exposes the regulatory realities of cross-border fintech",
+      "url": "https://thecondia.com/onepurze-cross-border-fintech-regulations/",
+      "source": "Condia",
+      "date": "29 Sept 2026",
+      "description": "OnePurze’s expansion across 20+ countries highlights the regulatory hurdles facing African fintechs. From CBN rules to BCEAO and Bank of Ghana mandates, partner licencing remains the key to cross-border settlement."
+    },
+    {
+      "title": "The ₦7T illusion: How infrastructure failure, not economic growth, drives Nigeria’s mobile data boom",
+      "url": "https://thecondia.com/mobile-data-boom-nigeria-infrastructure-failure/",
+      "source": "Condia",
+      "date": "27 Sept 2026",
+      "description": "Operators recorded an astonishing 155,397 fibre-optic cable cuts during April and May 2026 alone, an average of about 2,500 physically severed lines every day."
+    },
+    {
+      "title": "Inside Virgua: The Nigerian safety app turning smartphones into life-saving tools",
+      "url": "https://thecondia.com/virgua-nigerian-safety-app-with-life-saving-tools/",
+      "source": "Condia",
+      "date": "24 Sept 2026",
+      "description": "Franklyn Eluagu built a decade-long career convincing people to trust things they hadn't seen. Now he's betting that same instinct on a personal safety app for Nigeria."
+    },
+    {
+      "title": "20 years after, Remita launches consumer super app to bring banking, investing and payments into one place",
+      "url": "https://thecondia.com/remita-launches-super-app/",
+      "source": "Condia",
+      "date": "23 Sept 2026",
+      "description": "The app allows users connect and monitor accounts from different banks on one screen."
+    },
+    {
+      "title": "FairMoney fully redeems ₦5.86B Series 6 Commercial Paper",
+      "url": "https://thecondia.com/fairmoney-fully-redeems-%e2%82%a65-86b-series-6-commercial-paper/",
+      "source": "Condia",
+      "date": "22 Sept 2026",
+      "description": "The Series 6 note was issued on December 23, 2025, carrying a 269-day tenor and a discount rate of 19.48%."
+    },
+    {
+      "title": "Inside the compliance sprint that reshaped Nigeria’s fintech sector",
+      "url": "https://thecondia.com/fatf-cbn-fintech-regulation-nigeria/",
+      "source": "Condia",
+      "date": "22 Sept 2026",
+      "description": "Nigeria cleared the full 19-point plan and exited the FATF grey list in October 2025 but the CBN has maintained regulations that directly affect fintechs."
+    },
+    {
+      "title": "The AI boom is making smartphones less affordable for Africans",
+      "url": "https://thecondia.com/how-ai-is-disconnecting-africa/",
+      "source": "Condia",
+      "date": "20 Sept 2026",
+      "description": "AI data centres have snapped up the world’s memory. Across Sub-Saharan Africa, the bill is arriving as a phone few people can buy."
+    },
+    {
+      "title": "How a web of fake FRSC domains attempts real-time OTP theft to drain Nigerian accounts",
+      "url": "https://thecondia.com/fake-frsc-domains-real-time-otp-theft-nigeria/",
+      "source": "Condia",
+      "date": "Sep 16, 2026",
+      "description": "Reporting on a phishing operation exploiting trust in traffic enforcement and the speed of card fraud."
+    },
+    {
+      "title": "How FairMoney’s 30M users stand against Nigeria’s oldest banks",
+      "url": "https://thecondia.com/fairmoneys-30m-users-against-nigerias-oldest-banks/",
+      "source": "Condia",
+      "date": "Sep 10, 2026",
+      "description": "A closer look at what user numbers say, and what they do not say, about a digital bank’s scale."
+    },
+    {
+      "title": "Back from the dead",
+      "url": "https://technext24.com/2026/04/06/back-from-the-dead/",
+      "source": "Technext",
+      "date": "Apr 6, 2026",
+      "description": "A Technext byline archive entry. Replace or expand with stronger selected Technext clips as needed."
+    }
+  ]
 }
