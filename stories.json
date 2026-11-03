@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-02T20:16:37.627Z",
+  "updated": "2026-11-03T14:09:01.803Z",
   "latest": [
+    {
+      "title": "Omatek generated ₦1.5m in 9 months, it is carrying ₦5.2bn in liabilities",
+      "url": "https://thecondia.com/omatek-1-5m-revenue-5-2bn-liabilities-2026/",
+      "source": "Condia",
+      "date": "3 Nov 2026",
+      "description": "Omatek generated just ₦1.5 million in 9 months, while its liabilities reached ₦5.2 billion, including ₦3.27 billion in unexplained accrued expenses."
+    },
     {
       "title": "Is MTN Nigeria’s ₦95.5bn fintech sale really a win?",
       "url": "https://thecondia.com/mtn-nigeria-momo-fintech-valuation-explained/",
@@ -208,8 +215,8 @@
       "title": "The AI boom is making smartphones less affordable for Africans",
       "url": "https://thecondia.com/how-ai-is-disconnecting-africa/",
       "source": "Condia",
-      "date": "20 Sept 2026",
-      "description": "AI data centres have snapped up the world’s memory. Across Sub-Saharan Africa, the bill is arriving as a phone few people can buy."
+      "date": "Sep 20, 2026",
+      "description": "How global demand for memory and AI infrastructure reaches African consumers through the price of a phone."
     },
     {
       "title": "How a web of fake FRSC domains attempts real-time OTP theft to drain Nigerian accounts",
