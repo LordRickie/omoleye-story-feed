@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-16T15:40:48.278Z",
+  "updated": "2026-11-17T15:57:03.732Z",
   "latest": [
+    {
+      "title": "Nigeria is buying more from China, can fintechs fix the cost of paying for it?",
+      "url": "https://thecondia.com/nigeria-china-imports-fintech-payment-delays/",
+      "source": "Condia",
+      "date": "17 Nov 2026",
+      "description": "China accounted for 39.27% of Nigeria’s imports in H1 2026. As trade grows, Clea is betting that stablecoin infrastructure and local payment networks can help Nigerian businesses get money to suppliers faster."
+    },
+    {
+      "title": "Paystack is making a play for Nigeria’s onchain payment infrastructure",
+      "url": "https://thecondia.com/paystack-african-payment-rails-solana/",
+      "source": "Condia",
+      "date": "16 Nov 2026",
+      "description": "Paystack CEO Shola Akinlade has outlined how Global Stack, the company's financial infrastructure platform, will connect African payment rails to the Solana blockchain, as Paystack participates in the CBN's virtual asset supervisory pilot."
+    },
     {
       "title": "Why MTN wants Telkom, and what a takeover could mean for South Africa’s telecoms market",
       "url": "https://thecondia.com/mtn-telkom-acquisition-south-africa-telecoms-market/",
@@ -196,20 +210,6 @@
       "source": "Condia",
       "date": "7 Oct 2026",
       "description": "In January 2026, a CBN director, Yemi Solaja told the Committee of Heads of Banks' Operations conference in Lagos that institutions including Moniepoint MFB, OPay, and Kuda Bank had already been upgraded."
-    },
-    {
-      "title": "How AI & global chip shortages are driving up smartphone prices in Nigeria",
-      "url": "https://thecondia.com/nigeria-smartphone-prices-rise-h1-2026/",
-      "source": "Condia",
-      "date": "6 Oct 2026",
-      "description": "Nigeria was selected by the GSMA and its Handset Affordability Coalition for pilots aimed at expanding access to affordable 4G smartphones."
-    },
-    {
-      "title": "66 companies that have built digital Nigeria",
-      "url": "https://thecondia.com/66-companies-that-built-digital-nigeria/",
-      "source": "Condia",
-      "date": "1 Oct 2026",
-      "description": "From early mainframes, typewriters, and telephone exchanges to modern fintechs, cloud infrastructure, and diaspora platforms, explore the 66-year chronological relay race of the companies and institutions that built Nigeria’s digital econom"
     },
     {
       "title": "The AI boom is making smartphones less affordable for Africans",
